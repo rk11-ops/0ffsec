@@ -20,3 +20,9 @@ Deploy the package root to GitHub Pages or another static host. The main portfol
 ## Privacy
 The supplied archive contained certification documents and images. No login passwords, API keys or SSH private keys were identified in the source archive. Keep private documents and secrets out of public repositories, and publish certificates only if you are comfortable sharing them.
 \n\n## Visual direction update\nThe full site now uses a cohesive offensive-security / red-team operations visual language: graphite command-console palette, tactical grid, operational status labels, red-team accenting, environment cards, assessment workflow panels, project cards, credentials and contact section. Existing content, system interactions and project links are preserved.\n
+
+### Recently added course certificates
+- **Ethical Hacking with Kali Linux** — by IBM, completed 11 November 2026. [Verify](https://coursera.org/verify/NW3QC7AK4Y73)
+- **CompTIA PenTest+ (PT0-002) Course Specialization** — by Packt, completed 3 November 2026. This is a course-specialization certificate, not a CompTIA-issued PenTest+ certification. [Verify](https://coursera.org/verify/specialization/X63F2KU54P3M)
+
+Certificate PDFs are stored in `assets/certifications/`.
